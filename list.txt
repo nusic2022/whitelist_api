@@ -1,0 +1,370 @@
+July.10
+
+{
+    "success": true,
+    "data": {
+        "list": [
+            {
+                "referer": "0x268d21D0746e22211C932572a514F00174e56254",
+                "count": 89
+            },
+            {
+                "referer": "0xe9B3c384647C359BB0805eAA2a1b85850694F352",
+                "count": 50
+            },
+            {
+                "referer": "0x7Db6F1e8BB9b07CDd15a0bc5ff83dBB74aE988De",
+                "count": 30
+            },
+            {
+                "referer": "0xc4703796C89BeBfE3EfBd2BfCB7360E6E3Cc5C16",
+                "count": 25
+            },
+            {
+                "referer": "0x283c7BB94B689D6D7F583b3f4E499Cc369eD835D",
+                "count": 18
+            },
+            {
+                "referer": "0x4AF3F9c36CAa665f2e25400b8673786C1D9D79Ba",
+                "count": 16
+            },
+            {
+                "referer": "0x3D7D2C6619Bff7b61157EcE93867f21100F5A7D9",
+                "count": 14
+            },
+            {
+                "referer": "0x9d9102292Ad732F9173e98D61048125B0Ae9eb6F",
+                "count": 14
+            },
+            {
+                "referer": "0xb43894eb2bE76891fcA59d00381a3bc0adFC3D40",
+                "count": 13
+            },
+            {
+                "referer": "0xa373d1fe1A3acEd8D83311c9a29F38b874Ca6864",
+                "count": 10
+            }
+        ],
+        "startTimestamp": 1657411200,
+        "endTimestamp": 1657497600
+    }
+}
+
+================================================================
+July.11
+
+{
+    "success": true,
+    "data": {
+        "list": [
+            {
+                "referer": "0x575E2c57AF11ac820B7e40aD3E23Cc07E8e104ae",
+                "count": 98
+            },
+            {
+                "referer": "0xb3Acad769DE2AB3455C82BdedE452232AC529ff3",
+                "count": 47
+            },
+            {
+                "referer": "0x1b8a323d1f7D38bA4d2227F7476345371c09f3c7",
+                "count": 26
+            },
+            {
+                "referer": "0x8c30f9F887A7eD6a7Dd6e60a4f867aE6c48b931F",
+                "count": 19
+            },
+            {
+                "referer": "0x10BcB5A98864606086Fa17b3187787C4535E51B4",
+                "count": 15
+            },
+            {
+                "referer": "0x06Dc323F288B71844d346B3b4691d4A9c1FE5a83",
+                "count": 14
+            },
+            {
+                "referer": "0x551061cACC8bF0CB8825cB47011Fe16619fd471B",
+                "count": 14
+            },
+            {
+                "referer": "0x0Ea50eE74862804b5072eEbD490CEa9B4F558DDc",
+                "count": 13
+            },
+            {
+                "referer": "0x02535788B0F9edDbf2Ab510d6976b7bf3285af38",
+                "count": 13
+            },
+            {
+                "referer": "0xAa8dB0102E4D9926C57748f38b7Cda3A3575FaA7",
+                "count": 13
+            }
+        ],
+        "startTimestamp": 1657497600,
+        "endTimestamp": 1657584000
+    }
+}
+
+================================================================
+July.12
+
+{
+    "success": true,
+    "data": {
+        "list": [
+            {
+                "referer": "0x2bf737534F027da1Dc2FE8D9D2A2bf2623158CBa",
+                "count": 174
+            },
+            {
+                "referer": "0x10BcB5A98864606086Fa17b3187787C4535E51B4",
+                "count": 84
+            },
+            {
+                "referer": "0xcd3Bb360AE51c0594bb263BA114Cf66460AfE3e6",
+                "count": 79
+            },
+            {
+                "referer": "0x46aB50a30E8002Aed5740130B9f0d5e43D4f994f",
+                "count": 50
+            },
+            {
+                "referer": "0xD9cCf9c350a46b3F3440CB8520312Be99911B59A",
+                "count": 47
+            },
+            {
+                "referer": "0x35f42b28229b2bAE4B815CbB7b519794c379bd9D",
+                "count": 45
+            },
+            {
+                "referer": "0x1b8a323d1f7D38bA4d2227F7476345371c09f3c7",
+                "count": 33
+            },
+            {
+                "referer": "0x9c4c098190e565FEFFD586799218a112B7e21cF1",
+                "count": 16
+            },
+            {
+                "referer": "0x15fC13AA42ED23C15fBf5cba23A2788ea3d7f5F9",
+                "count": 15
+            },
+            {
+                "referer": "0x16Ff575499505528bAfc71Dd9b4295B586DB0411",
+                "count": 13
+            }
+        ],
+        "startTimestamp": 1657584000,
+        "endTimestamp": 1657670400
+    }
+}
+
+================================================================
+July.13
+
+{
+    "success": true,
+    "data": {
+        "list": [
+            {
+                "referer": "0x46aB50a30E8002Aed5740130B9f0d5e43D4f994f",
+                "count": 49
+            },
+            {
+                "referer": "0x6113892C7E9234B0066a2603aD65feb6491da6B5",
+                "count": 32
+            },
+            {
+                "referer": "0x9CDeDa251fA53097a1338bAdbB79BBF688AcA66F",
+                "count": 23
+            },
+            {
+                "referer": "0x6B8958C5Ad063e42c6dAA1c28CD4e7d27f256D7b",
+                "count": 21
+            },
+            {
+                "referer": "0xE571100479Aa287B52d7fcC6d4E3F5872fC48742",
+                "count": 21
+            },
+            {
+                "referer": "0xe265afc9402774496b0C1b46caB3d6d1C7ae1BaD",
+                "count": 19
+            },
+            {
+                "referer": "0x6D34Bf837b9005186cEa8433fa636834Ec092eA7",
+                "count": 17
+            },
+            {
+                "referer": "0xDfd629371e868fa21F598E044e21164504358F74",
+                "count": 16
+            },
+            {
+                "referer": "0xd0BB9908F96c7e2C6cA3407Fbf20BF20A1B8Ec89",
+                "count": 15
+            },
+            {
+                "referer": "0x522a452Bd3bC0634d70ea42c408268E293BD1bc6",
+                "count": 11
+            }
+        ],
+        "startTimestamp": 1657670400,
+        "endTimestamp": 1657756800
+    }
+}
+
+================================================================
+July.14
+
+{
+    "success": true,
+    "data": {
+        "list": [
+            {
+                "referer": "0x261F4709D208C5Aa5CDf31C8437339D0bb478762",
+                "count": 91
+            },
+            {
+                "referer": "0x3FE3cDc94Cd7EC7528c43e08253309af27abaffd",
+                "count": 48
+            },
+            {
+                "referer": "0x95a63f903131f0178fc87FdA455E3d4F11426076",
+                "count": 45
+            },
+            {
+                "referer": "0x4c48F80BC7ddE07D26C7FA7B974ECEb534d29Eb8",
+                "count": 31
+            },
+            {
+                "referer": "0xE9a3b3500d1A8203532b5981617c501a6eE6Eba1",
+                "count": 15
+            },
+            {
+                "referer": "0xBEEa969ffAD499A3a93D9CE900e4D9641bbCA985",
+                "count": 13
+            },
+            {
+                "referer": "0x6B8958C5Ad063e42c6dAA1c28CD4e7d27f256D7b",
+                "count": 12
+            },
+            {
+                "referer": "0x5f76Db87E7A2b14c85E7eFF5d1B78C59C52263FF",
+                "count": 12
+            },
+            {
+                "referer": "0x1cEe1fB8D6EDE16068B252A9CB305F719696Cb71",
+                "count": 12
+            },
+            {
+                "referer": "0x55f1F66B47Cfa1e419ad3847631407CaEDb678EF",
+                "count": 12
+            }
+        ],
+        "startTimestamp": 1657756800,
+        "endTimestamp": 1657843200
+    }
+}
+
+================================================================
+July.15
+
+{
+    "success": true,
+    "data": {
+        "list": [
+            {
+                "referer": "0x95a63f903131f0178fc87FdA455E3d4F11426076",
+                "count": 55
+            },
+            {
+                "referer": "0x7de12E7706F62D425E094e1F6973b5B6465DEfD6",
+                "count": 46
+            },
+            {
+                "referer": "0xcf13e922a5089B217941B3E85F541D0187536779",
+                "count": 38
+            },
+            {
+                "referer": "0x4c48F80BC7ddE07D26C7FA7B974ECEb534d29Eb8",
+                "count": 31
+            },
+            {
+                "referer": "0x6D34Bf837b9005186cEa8433fa636834Ec092eA7",
+                "count": 22
+            },
+            {
+                "referer": "0x3FE3cDc94Cd7EC7528c43e08253309af27abaffd",
+                "count": 21
+            },
+            {
+                "referer": "0xD9cCf9c350a46b3F3440CB8520312Be99911B59A",
+                "count": 17
+            },
+            {
+                "referer": "0x6B8958C5Ad063e42c6dAA1c28CD4e7d27f256D7b",
+                "count": 12
+            },
+            {
+                "referer": "0x283c7BB94B689D6D7F583b3f4E499Cc369eD835D",
+                "count": 9
+            },
+            {
+                "referer": "0x522a452Bd3bC0634d70ea42c408268E293BD1bc6",
+                "count": 9
+            }
+        ],
+        "startTimestamp": 1657843200,
+        "endTimestamp": 1657929600
+    }
+}
+
+================================================================
+July.16
+
+{
+    "success": true,
+    "data": {
+        "list": [
+            {
+                "referer": "0x73F09a8158Ea3F2d502105E7c347F24a5E712874",
+                "count": 15
+            },
+            {
+                "referer": "0x615696A74376AebCEcd30bb261e9eaC5Ee4f10E2",
+                "count": 11
+            },
+            {
+                "referer": "0x36832f961e3EF1412e278Be9d120B15Cf3B048C9",
+                "count": 9
+            },
+            {
+                "referer": "0xBCd9E228AB2353AD544efD0Ff9be9f02d7DBD7Bb",
+                "count": 9
+            },
+            {
+                "referer": "0x9Af3Ac1B9E0e76bEdb333a5bEA4AD1B226A7F790",
+                "count": 8
+            },
+            {
+                "referer": "0xcf13e922a5089B217941B3E85F541D0187536779",
+                "count": 7
+            },
+            {
+                "referer": "0xe265afc9402774496b0C1b46caB3d6d1C7ae1BaD",
+                "count": 6
+            },
+            {
+                "referer": "0x8E580CbE4F1C8911d767c80556814DbC3309dAE6",
+                "count": 6
+            },
+            {
+                "referer": "0x98935176260a6055013D77287dFeEe77A125F776",
+                "count": 6
+            },
+            {
+                "referer": "0x40f4A13aB2AfBF91D7dE7e1f0725D3B4da92F0d5",
+                "count": 5
+            }
+        ],
+        "startTimestamp": 1657929600,
+        "endTimestamp": 1658016000
+    }
+}
+
